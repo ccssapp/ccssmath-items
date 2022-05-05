@@ -1,5 +1,7 @@
 # Complete table of math items in Common Core Math Standards
 
+> **NOTE:** Cross-reference with ccssmath [tsv-itemid table][tsv_itemid].
+
 |  **ITEMID** | KEY | TYPE | DETAILS |
 | :---: | :--- | :--- | :--- |
 |  **1** | CCSS.MATH.PRACTICE.MP1 | standard | Make sense of problems and persevere in solving them. |
@@ -666,4 +668,9 @@
 |  **662** | CCSS.MATH.CONTENT.HSS.MD.B.5.B | substandard | Evaluate and compare strategies on the basis of expected values. |
 |  **663** | CCSS.MATH.CONTENT.HSS.MD.B.6 | standard | (+) Use probabilities to make fair decisions (e.g., drawing by lots, using a random number generator). |
 |  **664** | CCSS.MATH.CONTENT.HSS.MD.B.7 | standard | (+) Analyze decisions and strategies using probability concepts (e.g., product testing, medical testing, pulling a hockey goalie at the end of a game). |
+
+
+---
+[tsv_itemid]: https://github.com/ccssapp/ccssmath/blob/main/textfiles/ccssmath-with-item-id.tsv
+
 
